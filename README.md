@@ -52,12 +52,14 @@ Protected APIs
 Encrypted user data
 
 ## 📂 Project Structure
+```bash
 pharmacy-management-system/
 │
 ├── backend/       # Spring Boot application
 ├── frontend/      # React application
 ├── database/      # SQL scripts
 └── README.md
+```
 
 ## ⚙️ Installation & Setup
 🔹 Backend Setup
